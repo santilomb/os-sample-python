@@ -1,5 +1,6 @@
+--trusted-host pypi.python.org
 --trusted-host pypi.org 
 --trusted-host files.pythonhosted.org
---index-url https://pypi.org/simple
+--index-url https://pypi.python.org/simple
 gunicorn
 Flask
